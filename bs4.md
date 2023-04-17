@@ -2,7 +2,7 @@
 #### Ways to get the html file
 - local file
 - requests.get()
-- page.content() from [playwright](playwright.ipynb)
+- page.content() from [playwright](playwright.md)
 #### Html parsers
 Commonly used html parser: "html.parser"
 Faster than html parser but requires pip install: "lxml"
