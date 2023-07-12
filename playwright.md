@@ -1,4 +1,4 @@
-[Official Documentation](https://playwright.dev/python/docs/intro)
+[Official Documentation](https://playwright.dev/python/docs/library)
 
 ### For further automation
 - Use classes such as [locator](https://playwright.dev/python/docs/api/class-locator) to find elements (highly beneficial as it includes auto-wait).
